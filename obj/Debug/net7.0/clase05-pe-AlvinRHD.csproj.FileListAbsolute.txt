@@ -1,0 +1,15 @@
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\bin\Debug\net7.0\clase05-pe-AlvinRHD.exe
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\bin\Debug\net7.0\clase05-pe-AlvinRHD.deps.json
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\bin\Debug\net7.0\clase05-pe-AlvinRHD.runtimeconfig.json
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\bin\Debug\net7.0\clase05-pe-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\bin\Debug\net7.0\clase05-pe-AlvinRHD.pdb
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.csproj.AssemblyReference.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.AssemblyInfoInputs.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.AssemblyInfo.cs
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.csproj.CoreCompileInputs.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\refint\clase05-pe-AlvinRHD.dll
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.pdb
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\clase05-pe-AlvinRHD.genruntimeconfig.cache
+C:\Users\ezequ\OneDrive\Escritorio\UNIVO-02-2023\Programación estructurada\UNIDAD#1\Asignación_Clase#5\clase05-pe-AlvinRHD\obj\Debug\net7.0\ref\clase05-pe-AlvinRHD.dll

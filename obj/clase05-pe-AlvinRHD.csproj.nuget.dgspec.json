@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj": {}
+    "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj": {
+    "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj",
+        "projectUniqueName": "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj",
         "projectName": "clase05-pe-AlvinRHD",
-        "projectPath": "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj",
+        "projectPath": "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\clase05-pe-AlvinRHD.csproj",
         "packagesPath": "C:\\Users\\ezequ\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\obj\\",
+        "outputPath": "c:\\Users\\ezequ\\OneDrive\\Escritorio\\UNIVO-02-2023\\Programación estructurada\\UNIDAD#1\\Asignación_Clase#5\\clase05-pe-AlvinRHD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ezequ\\AppData\\Roaming\\NuGet\\NuGet.Config"
